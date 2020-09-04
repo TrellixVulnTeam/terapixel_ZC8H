@@ -6,3 +6,4 @@ numba==0.47.0
 cudf==0.11.0
 cuml==0.11.0
 cupy-cuda102==6.6.0
+cupy==6.6.0
