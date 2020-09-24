@@ -1,12 +1,12 @@
-# Terrapixel mosaic images
-Welcome to the repository of my terrapixel project.
+# Terapixel mosaic images
+Welcome to the repository of my terapixel project.
 
 Here you will find some scripts to create mosaics 
 meta-pictures from a set of any number source images.
 
 There repository are currently quite unstructured, 
 but the is a quite detailed desciption/documentation 
-at [terrapixel.me](https://terrapixel.me/docs/)
+at [terapixel.me](https://terapixel.me/docs/)
 
 
 Originally I created this as a fan-art project for the 
